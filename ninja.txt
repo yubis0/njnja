@@ -1,1 +1,1 @@
-yubis:0.tcp.ap.ngrok.io:11497:0:0
+yubis1:0.tcp.ap.ngrok.io:11497:0:0
